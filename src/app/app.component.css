@@ -1,0 +1,10 @@
+.app{
+  border-radius: 25px;
+  margin: 25px 25% 0 25%;
+  padding: 25px;
+  border: 1px solid rgb(216, 215, 215);
+}
+
+.app h1{
+  text-align: center;
+}
